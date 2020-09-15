@@ -1,5 +1,5 @@
 <?php
 
-echo 'tung dep trai';
+echo 'tung dep';
 
 ?>
