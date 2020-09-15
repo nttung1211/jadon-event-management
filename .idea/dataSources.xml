@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@localhost" uuid="57061b64-8b68-4490-86bd-9439046b8a64">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="dareixtjzqg8bwie@w1h4cr5sb73o944p.cbetxkdyhwsb.us-east-1.rds.amazonaws.com" uuid="ad4610eb-ab2a-47df-bc89-d10b91f608b4">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://w1h4cr5sb73o944p.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/dareixtjzqg8bwie</jdbc-url>
+      <driver-properties>
+        <property name="max_allowed_packet" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

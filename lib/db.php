@@ -4,10 +4,10 @@
 session_start();
 
 $db = new DB(
-  'localhost',
-  'root',
-  '',
-  'jadon_db'
+  'w1h4cr5sb73o944p.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+  'h22vvbn9qnd5n5jy',
+  'svp6oocvls9so4ea',
+  'dareixtjzqg8bwie'
 );
 
 /* FUNCTIONS */
